@@ -1,0 +1,12 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Update User Schema",
+  "type": "object",
+  "properties": {
+    "name":      { "type": "string" },
+    "job":       { "type": "string" },
+    "updatedAt": { "type": "string", "format": "date-time" }
+  },
+  "required": [ "name", "job", "updatedAt" ],
+  "additionalProperties": false
+}
