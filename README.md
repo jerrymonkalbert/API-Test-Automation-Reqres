@@ -16,8 +16,8 @@ We leverage the free reqres.in API as a dummy endpoint to showcase GET, POST, PU
 
 1. **Clone** or **download** this repository.
    ```bash
-   git clone https://github.com/YourUser/RestSharpApiTestAutomation.git
-   cd RestSharpApiTestAutomation
+   git clone https://github.com/jerrymonkalbert/API-Test-Automation-Reqres.git
+
 2. Open a terminal in the project's root folder(where the .csproj is located).
 3. Restore dependencies:
    ```bash
